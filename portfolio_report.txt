@@ -1,0 +1,14 @@
+===== Stock Portfolio Report =====
+
+Stock : AAPL
+Price : $180
+Quantity : 90
+Investment : $16200
+------------------------
+Stock : AMZN
+Price : $140
+Quantity : 80
+Investment : $11200
+------------------------
+
+Total Investment = $27400
